@@ -9,6 +9,7 @@
   </head>
   <body>
     <div class="container paper">
+    <div class="container paper">
       <%~ it.body %>
     </div>
   </body>
